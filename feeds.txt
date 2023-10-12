@@ -1,7 +1,7 @@
-https://www.reddit.com/r/technology.xml
+https://rss.delmia.tk/wechat/ershicimi/mQ4abY34
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-6OW5aJYBFM33zXQlBKPNA
-https://www.theverge.com/rss/tech/index.xml
-https://css-tricks.com/feed/
+https://rss.delmia.tk/wechat/ershicimi/EOdKqK34
+https://rss.delmia.tk/wechat/ershicimi/ERjGPYQ9
 https://news.ycombinator.com/rss
 https://feeds.feedburner.com/WhenCanIUse
 https://feeds.simplecast.com/ob9OSBIN
